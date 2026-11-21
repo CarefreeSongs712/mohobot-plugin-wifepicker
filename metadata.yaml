@@ -1,10 +1,10 @@
 name: wifepicker
 author: CarefreeSongs712
 display_name: 抽老婆
-version: 1.0.0
+version: 1.0.1
 description: 群聊抽老婆互动
 repo: https://github.com/CarefreeSongs712/mohobot-plugin-wifepicker
-license: MIT
+license: AGPL-3.0
 api_version: 1
 mohobot_version: ">=0.1.0"
 tags: [fun]
